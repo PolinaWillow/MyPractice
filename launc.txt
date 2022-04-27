@@ -1,0 +1,2 @@
+g++ -o program ./main.cpp ./binarySearch.cpp
+./program BinarySearch Data.txt Find.txt Result 100
